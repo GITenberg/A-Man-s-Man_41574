@@ -1,0 +1,41 @@
+_repo: A-Man-s-Man_41574
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Flagg, James Montgomery
+    alias: Flagg, J. Montgomery
+    birthdate: 1877
+    deathdate: 1960
+    gutenberg_agent_id: '25940'
+    url: http://www.gutenberg.org/2009/agents/25940
+    wikipedia: http://en.wikipedia.org/wiki/James_Montgomery_Flagg
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hay, Ian
+    aliases:
+    - Beith, John Hay
+    - Beith, Ian Hay
+    birthdate: 1876
+    deathdate: 1952
+    gutenberg_agent_id: '4304'
+    url: http://www.gutenberg.org/2009/agents/4304
+description: ''
+gutenberg_issued: '2012-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41574'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+title: A Man's Man
+url: http://www.gutenberg.org/ebooks/41574
